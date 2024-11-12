@@ -1,0 +1,5 @@
+env
+https:
+*.xlsx
+.DS_Store
+*.zip
